@@ -12,8 +12,8 @@
 - In each subfolder, there's a script called app.R, where you can find the script of each dashboard.
 
 ### Final output
-- The final output of Dashboard_Covid_QLAB's script is presented [here] (https://qlab-pucp.shinyapps.io/PeruCovid/)
-- The final output of Dashboard_Data_QLAB's script is presented [here] (https://qlab-pucp.shinyapps.io/QLAB-BigData/)
+- The final output of Dashboard_Covid_QLAB's script is presented [here](https://qlab-pucp.shinyapps.io/PeruCovid/)
+- The final output of Dashboard_Data_QLAB's script is presented [here](https://qlab-pucp.shinyapps.io/QLAB-BigData/)
 
 ### Covid dashboard
 ![Covid_dashboard](https://user-images.githubusercontent.com/70246254/170998281-3f6cfe82-3c42-4d01-9f6f-13afe2cf3540.jpg)
