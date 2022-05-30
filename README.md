@@ -1,4 +1,5 @@
 # RA_QLAB_PUCP
+<<<<<<< HEAD
 **Author:** Yoseph Ayala
 
 ---
@@ -22,3 +23,9 @@
 
 ### Data dashboard
 ![Data_dashboard](https://user-images.githubusercontent.com/70246254/170999372-5a6dab36-d926-47ab-ae7e-ef10e6db3ad4.jpg)
+=======
+
+The final output of Dashboard_Covid_QLAB's script is presented here: https://qlab-pucp.shinyapps.io/PeruCovid/
+
+The final output of Dashboard_Data_QLAB's script is presented here: https://qlab-pucp.shinyapps.io/QLAB-BigData/
+>>>>>>> ca2655dd9632a335fb8ee1885c31bfb2e282b80a
