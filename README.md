@@ -7,7 +7,7 @@
 - Covid Dashboard: this dashboard allows you to view and download disaggregated information on the incidence of the COVID-19 epidemic in Peru. The aggregation levels available are regional, provincial and district.
 - Data Dashboard: this dashboard has two main resources. The first is a reference center for original sources of data on various topics such as health, education, employment, industry, agriculture, public finances, electoral information, population, etc. The second resource consists of original data or data with some level of processing done by the QLAB team that cannot be found on other reference sites.
 
-### Structure of the respository 
+### Structure of the repository 
 - In the Dashboards' folder, you'll find two subfolfers: Covid app and Databases app.
 - In each subfolder, there's a script called app.R, where you can find the script of each dashboard.
 
